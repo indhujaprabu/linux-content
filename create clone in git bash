@@ -1,0 +1,33 @@
+Prabu.B@Prabu MINGW64 ~
+$ mkdir TerminalCommands
+
+Prabu.B@Prabu MINGW64 ~
+$ cd TerminalCommands
+
+Prabu.B@Prabu MINGW64 ~/TerminalCommands
+$ ls
+
+Prabu.B@Prabu MINGW64 ~/TerminalCommands
+$ touch India.txt
+
+Prabu.B@Prabu MINGW64 ~/TerminalCommands
+$ git clone http://github.com/indhujaprabu/linux-content.git
+Cloning into 'linux-content'...
+warning: redirecting to https://github.com/indhujaprabu/linux-content.git/
+warning: You appear to have cloned an empty repository.
+
+Prabu.B@Prabu MINGW64 ~/TerminalCommands
+$ cd linux-content
+
+Prabu.B@Prabu MINGW64 ~/TerminalCommands/linux-content (main)
+$ ls
+
+Prabu.B@Prabu MINGW64 ~/TerminalCommands/linux-content (main)
+$ pwd
+/c/Users/Prabu.B/TerminalCommands/linux-content
+
+Prabu.B@Prabu MINGW64 ~/TerminalCommands/linux-content (main)
+$ ^C
+
+Prabu.B@Prabu MINGW64 ~/TerminalCommands/linux-content (main)
+$
